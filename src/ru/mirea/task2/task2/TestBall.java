@@ -1,5 +1,5 @@
-package ru.mirea.task2;
-import ru.mirea.task2.Ball;
+package ru.mirea.task2.task2;
+import ru.mirea.task2.task2.Ball;
 
 import java.lang.*;
 
